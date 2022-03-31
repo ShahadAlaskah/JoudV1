@@ -1,6 +1,7 @@
 # JoudV1
 JOUD: An Educational Mobile Game Application for Quality Assurance Awareness
-#### <img src="https://user-images.githubusercontent.com/56152970/161020223-304497f1-2482-4530-8f70-304222bc62ef.png" width="200">
+
+<img src="https://user-images.githubusercontent.com/56152970/161020223-304497f1-2482-4530-8f70-304222bc62ef.png" width="200">
 
 
 
